@@ -1,2 +1,4 @@
 account.json
 .terraform
+.tfstate
+.tfstate.backup
